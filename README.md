@@ -9,5 +9,5 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 
 # Ipotesi aggiuntive: 
 1) Ogni reparto puo avere piu di una stanza, quindi avremo bisogno di wifi controller per la rete per avere maggior velocita in tutto l'ospedale.
-2) I medici e gli infermieri avranno 2 tipologie di account separati per gestire nel miglior modo il paziente. Solo l' admin di rete può creare gli account e lui sarà l'unico che potrà gestirli.
+2) I medici e gli amministratori di rete avranno 2 tipologie di account separati per gestire nel miglior modo il paziente. Solo l' admin di rete può creare gli account e lui sarà l'unico che potrà gestirli.
 4) ipotizzando che la grandezza media di ogni reparto sia di di 100metri, ogni access point in genere ha di media 45 metri di banda, mettendo l access point all altrata del reparto a 50 metri dall'altro

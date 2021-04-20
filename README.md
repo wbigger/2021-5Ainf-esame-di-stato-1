@@ -15,7 +15,7 @@ https://prnt.sc/11pqcll
 1) Ogni reparto puo avere piu di una stanza, quindi utilizzeremo il wifi controller per la rete per avere maggior velocita in tutto l'ospedale.
 2) I medici e gli amministratori di rete avranno 2 tipologie di account separati per gestire nel miglior modo il paziente. Solo l' admin di rete può creare gli account e  sarà l'unico che potrà gestirli.
 4) Non ci e stata richiesta della separazione della rete,quindi si preferisce utilizzare degli access point con la stessa sottorete.
-5) L'edificio e stato appena costruito di medie dimensioni.
+5) L'edificio è stato appena costruito ed è di medie dimensioni.
 6) Si tratta di una sola costruzione quindi si usera un solo CD/BD con un FD per piano 
 7) Per garantire una connessione efficente, si utilizzeranno i cavi CAT 8 
 8) Come inidizzo di rete si utilizzera l' indirizzo in classe A (10.0.0.0 con subnet 255.0.0.0) per garantire un aumento di dispositivi per utilizzi futuri.

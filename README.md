@@ -19,5 +19,3 @@ https://prnt.sc/11pqcll
 6) Si tratta di una sola costruzione quindi si usera un solo CD/BD con un FD per piano 
 7) Per garantire una connessione efficente, si utilizzeranno i cavi CAT 8 
 8) Come inidizzo di rete si utilizzera l' indirizzo in classe A (10.0.0.0 con subnet 255.0.0.0) per garantire un aumento di dispositivi per utilizzi futuri.
-9) si ipotizza che la distanza dal wifi controller sia di 100 metri 
-

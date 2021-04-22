@@ -8,10 +8,10 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 
 # Progetto
 
-https://prnt.sc/11pqcll
+[Packet Tracer](https://prnt.sc/11usahl) 
 
 #Planimetrie
-Seminterrato: https://prnt.sc/11uock2
+[Draw.io](https://prnt.sc/11usdih) 
 
 
 # Ipotesi aggiuntive: 

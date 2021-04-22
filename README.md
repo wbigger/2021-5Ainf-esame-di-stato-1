@@ -15,6 +15,7 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 4) Si tratta di una sola costruzione quindi si usera un solo CD/BD con un FD per piano
 5) Come inidizzo di rete si utilizzera l' indirizzo in classe A (10.0.0.0 con subnet 255.0.0.0) per garantire un aumento di dispositivi per utilizzi futuri. Per ogni reparto si utilizzera una subnet diversa.
 6) Non ci e stato richiesto alcun tipo di dispositivo wireless per la farmacia, quindi si usera uno switch, collegato poi ad esso un pc.
+7) Il protocollo web sara l' https 
 
 # CD
 

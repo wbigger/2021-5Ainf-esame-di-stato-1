@@ -11,7 +11,7 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 [Packet Tracer](https://prnt.sc/11usahl) 
 
 # Planimetrie
-[Draw.io](https://prnt.sc/11usdih) 
+[Piano terra](https://prnt.sc/11v47en) 
 
 # Dispositivi
 

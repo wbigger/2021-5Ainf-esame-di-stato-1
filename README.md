@@ -12,9 +12,22 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 2) I medici e gli amministratori di rete avranno 2 tipologie di account separati per gestire nel miglior modo il paziente. Solo l' admin di rete può creare gli account e  sarà l'unico che potrà gestirli.
 4) Non ci è stata richiesta della separazione della rete,quindi si preferisce utilizzare degli access point con la stessa sottorete.
 5) L'edificio è stato appena costruito ed è di medie dimensioni.
-6) Si tratta di una sola costruzione quindi si usera un solo CD/BD con un FD per piano CD= campus distributor, cioè distributore di insedimento , dove si concentrano le apparecchiature di distrubuzione di tutto l'impianto BD = Building distributor , cioè distributore di edificio , dove si concentrano le apparecchiature di distribuzione del singolo edificio. FD = è il floor distributor, cioè il distributore di piano
+6) Si tratta di una sola costruzione quindi si usera un solo CD/BD con un FD per piano
 7) Come inidizzo di rete si utilizzera l' indirizzo in classe A (10.0.0.0 con subnet 255.0.0.0) per garantire un aumento di dispositivi per utilizzi futuri. Per ogni reparto si utilizzera una subnet diversa.
 8) Non ci e stato richiesto alcun tipo di dispositivo wireless per la farmacia, quindi si usera uno switch, collegato poi ad esso un pc.
+
+# CD
+
+CD = campus distributor, cioè distributore di insedimento , dove si concentrano le apparecchiature di distrubuzione di tutto l'impianto 
+
+# BD
+
+BD = Building distributor , cioè distributore di edificio , dove si concentrano le apparecchiature di distribuzione del singolo edificio.
+
+# FD
+
+FD = è il floor distributor, cioè il distributore di piano
+
 
 # Progetto
 

@@ -19,7 +19,7 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 
 [Access Point](https://www.amazon.it/Ubiquiti-Networks-UAP-AC-PRO-access-point/dp/B016XYQ3WK) Gli access point che si andranno ad utilizzare sono gli "Ubiquiti Networks" con protocollo "802.11.ac", la distanza massima di banda di questi dispositivi sono di 10 metri, e la velocita puo arrivare fino a 7gbps, il costo e di 155 euro (155* 6 = 930 euro)
 
-[Router](https://www.amazon.it/dp/B018WJTTG6?tag=tecnologiant-21&linkCode=osi&th=1&psc=1&keywords=router%20wi-fi%20AC) Il router che andremo ad utilizzare sara l' "Asus RT-AC88U", che supporta il protocollo 802.11.ac, Tecnologia Broadcom NitroQAMTM che supporta due data rate a 5 GHz fino a 2167 Mbps e uno a 2,4 GHz fino a 1000 Mbps 
+[Router](https://www.amazon.it/dp/B018WJTTG6?tag=tecnologiant-21&linkCode=osi&th=1&psc=1&keywords=router%20wi-fi%20AC) Il router che andremo ad utilizzare sara l' "Asus RT-AC88U", che supporta il protocollo 802.11.ac, Tecnologia Broadcom NitroQAMTM che supporta due data rate a 5 GHz fino a 2167 Mbps e uno a 2,4 GHz fino a 1000 Mbps. Costo= 232 euro)
 
 # Ipotesi aggiuntive: 
 1) Ogni reparto puo avere piu di una stanza, quindi utilizzeremo il wifi controller per la rete per avere maggior velocita in tutto l'ospedale.

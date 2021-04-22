@@ -44,12 +44,12 @@ FD = è il floor distributor, cioè il distributore di piano
 
 # Dispositivi
 
-[Switch](https://www.amazon.it/TP-Link-TL-SG1048-Gigabit-Struttura-Acciaio/dp/B004UBUJZG) Abbiamo optato per 4 switch a 48 porte in vista di utilizzi futuri
+[Switch](https://www.amazon.it/TP-Link-TL-SG1048-Gigabit-Struttura-Acciaio/dp/B004UBUJZG) Abbiamo optato per 4 switch a 48 porte in vista di utilizzi futuri. Il costo e di: 196,64 € l' uno (196,64 * 4 = 786,56 euro)
 
-[Access Point](https://www.amazon.it/Ubiquiti-Networks-UAP-AC-PRO-access-point/dp/B016XYQ3WK) Gli access point che si andranno ad utilizzare sono gli "Ubiquiti Networks" con protocollo "802.11.ac", la distanza massima di banda di questi dispositivi sono di 10 metri, e la velocita puo arrivare fino a 7gbps, il costo e di 155 euro (155* 6 = 930 euro)
+[Access Point](https://www.amazon.it/Ubiquiti-Networks-UAP-AC-PRO-access-point/dp/B016XYQ3WK) Gli access point che si andranno ad utilizzare sono gli "Ubiquiti Networks" con protocollo "802.11.ac", la distanza massima di banda di questi dispositivi sono di 10 metri, e la velocita puo arrivare fino a 7gbps, il costo e di 155 euro l' uno (155 * 6 = 930 euro)
 
-[Router](https://www.amazon.it/dp/B018WJTTG6?tag=tecnologiant-21&linkCode=osi&th=1&psc=1&keywords=router%20wi-fi%20AC) Il router che andremo ad utilizzare sara l' "Asus RT-AC88U", che supporta il protocollo 802.11.ac, Tecnologia Broadcom NitroQAMTM che supporta due data rate a 5 GHz fino a 2167 Mbps e uno a 2,4 GHz fino a 1000 Mbps. Costo= 232 euro)
+[Router](https://www.amazon.it/dp/B018WJTTG6?tag=tecnologiant-21&linkCode=osi&th=1&psc=1&keywords=router%20wi-fi%20AC) Il router che andremo ad utilizzare sara l' "Asus RT-AC88U", che supporta il protocollo 802.11.ac, Tecnologia Broadcom NitroQAMTM che supporta due data rate a 5 GHz fino a 2167 Mbps e uno a 2,4 GHz fino a 1000 Mbps. Il costo e di: 232 euro)
 
-[Cavi fibra](https://www.amazon.it/UGREEN-Ethernet-Console-Videogiochi-Compatibile/dp/B00QV1F1NS) Per garantire una connessione efficente, si utilizzeranno i cavi Cat. 7A (FTP), frequenza: 1-1000 MHz, norma: EN 50288-9-1, Classe ISO 11801: Classe Fa, metri: 100, prezzo: 7,64 euro, si useranno i cavi in fibra ottica perche una struttura ospedaliera ha anche molti macchinari nel reparto da connettere ad internet, quindi si e ipotizzato che la connessione dei macchinari e dei dispositivi devono essere sempre molto efficenti
+[Cavi fibra](https://www.amazon.it/UGREEN-Ethernet-Console-Videogiochi-Compatibile/dp/B00QV1F1NS) Per garantire una connessione efficente, si utilizzeranno i cavi Cat. 7A (FTP), frequenza: 1-1000 MHz, norma: EN 50288-9-1, Classe ISO 11801: Classe Fa, metri: 100, si useranno i cavi in fibra ottica perche una struttura ospedaliera ha anche molti macchinari nel reparto da connettere ad internet, quindi si e ipotizzato che la connessione dei macchinari e dei dispositivi devono essere sempre molto efficenti. Il costo e di: 7,64 euro
 
-[Cavi rame](https://www.amazon.it/Mr-Tronic-metri-Ethernet-Grigio/dp/B07GBZ2S9J) Per collegare il pc della farmacia si utilizzera un cavo ethernet di tipo CAT 6a, di 5 metri, Classe EA 10GbEth, fino a 500 MHz. Il prezzo e di 10.99 euro
+[Cavi rame](https://www.amazon.it/Mr-Tronic-metri-Ethernet-Grigio/dp/B07GBZ2S9J) Per collegare il pc della farmacia si utilizzera un cavo ethernet di tipo CAT 6a, di 5 metri, Classe EA 10GbEth, fino a 500 MHz. Il costo e di: 10.99 euro

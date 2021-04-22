@@ -39,3 +39,4 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 
 [Cavi fibra](https://www.amazon.it/UGREEN-Ethernet-Console-Videogiochi-Compatibile/dp/B00QV1F1NS) Per garantire una connessione efficente, si utilizzeranno i cavi Cat. 7A (FTP), frequenza: 1-1000 MHz, norma: EN 50288-9-1, Classe ISO 11801: Classe Fa, metri: 100, prezzo: 7,64 euro, si useranno i cavi in fibra ottica perche una struttura ospedaliera ha anche molti macchinari nel reparto da connettere ad internet, quindi si e ipotizzato che la connessione dei macchinari e dei dispositivi devono essere sempre molto efficenti
 
+[Cavi rame](https://www.amazon.it/Mr-Tronic-metri-Ethernet-Grigio/dp/B07GBZ2S9J) Per collegare il pc della farmacia si utilizzera un cavo ethernet di tipo CAT 6a, di 5 metri, Classe EA 10GbEth, fino a 500 MHz

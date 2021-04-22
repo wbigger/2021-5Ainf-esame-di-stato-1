@@ -15,9 +15,9 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 
 [Primo piano](https://prnt.sc/11v4agw)
 
-[Secondo piano]()
+[Secondo piano](https://prnt.sc/11v4e61)
 
-[Terzo piano]()
+[Terzo piano](https://prnt.sc/11v4hht)
 
 # Dispositivi
 

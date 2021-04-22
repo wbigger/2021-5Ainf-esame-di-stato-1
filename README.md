@@ -10,6 +10,9 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 
 https://prnt.sc/11pqcll
 
+#Planimetrie
+Seminterrato: https://prnt.sc/11uock2
+
 
 # Ipotesi aggiuntive: 
 1) Ogni reparto puo avere piu di una stanza, quindi utilizzeremo il wifi controller per la rete per avere maggior velocita in tutto l'ospedale.

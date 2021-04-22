@@ -8,7 +8,7 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 
 # Progetto
 
-[Packet Tracer](https://prnt.sc/11usahl) 
+[Packet Tracer](https://prnt.sc/11v6hq8) 
 
 # Planimetrie
 [Seminterrato](https://prnt.sc/11v47en) 

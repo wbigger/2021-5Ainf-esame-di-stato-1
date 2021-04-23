@@ -62,7 +62,7 @@ FD = è il floor distributor, cioè il distributore di piano
 
 # Dispositivi
 
-[Switch](https://www.amazon.it/TP-Link-TL-SG1048-Gigabit-Struttura-Acciaio/dp/B004UBUJZG) Abbiamo optato per 4 switch a 48 porte in vista di utilizzi futuri. Il costo e di: 196,64 € l' uno (196,64 * 4 = 786,56 euro)
+[Switch](https://www.amazon.it/TP-Link-TL-SG1048-Gigabit-Struttura-Acciaio/dp/B004UBUJZG) Abbiamo optato per 5 switch a 48 porte in vista di utilizzi futuri. Il costo e di: 196,64 € l' uno (196,64 * 5 = 983,2 euro)
 
 [Access Point](https://www.amazon.it/Ubiquiti-Networks-UAP-AC-PRO-access-point/dp/B016XYQ3WK) Gli access point che si andranno ad utilizzare sono gli "Ubiquiti Networks" con protocollo "802.11.ac", la distanza massima di banda di questi dispositivi sono di 10 metri, e la velocita puo arrivare fino a 7gbps, il costo e di 155 euro l' uno (155 * 6 = 930 euro)
 

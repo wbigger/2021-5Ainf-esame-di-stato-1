@@ -44,7 +44,7 @@ FD = è il floor distributor, cioè il distributore di piano
 
 [Primo piano](https://prnt.sc/11v6vq0)
 
-[Secondo piano](https://prnt.sc/11v6wjc)
+[Secondo piano](https://prnt.sc/11wxe3i)
 
 [Terzo piano](https://prnt.sc/11wxd8v)
 

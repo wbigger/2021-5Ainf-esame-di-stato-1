@@ -42,7 +42,7 @@ FD = è il floor distributor, cioè il distributore di piano
 # Planimetrie
 [Seminterrato](https://prnt.sc/11v6urj) 
 
-[Primo piano](https://prnt.sc/11v6vq0)
+[Primo piano](https://prnt.sc/11wxeo2)
 
 [Secondo piano](https://prnt.sc/11wxe3i)
 

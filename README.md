@@ -56,6 +56,10 @@ FD = è il floor distributor, cioè il distributore di piano
 
 [Albero degli apparati passivi](https://prnt.sc/11wy6a7)
 
+# Schema degli armadi
+
+[Schemi degli armadi](https://prnt.sc/11wz4ds)
+
 # Dispositivi
 
 [Switch](https://www.amazon.it/TP-Link-TL-SG1048-Gigabit-Struttura-Acciaio/dp/B004UBUJZG) Abbiamo optato per 4 switch a 48 porte in vista di utilizzi futuri. Il costo e di: 196,64 € l' uno (196,64 * 4 = 786,56 euro)

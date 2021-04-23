@@ -37,7 +37,7 @@ FD = è il floor distributor, cioè il distributore di piano
 
 # Progetto
 
-[Packet Tracer](https://prnt.sc/11wwnbp) 
+[Packet Tracer](https://prnt.sc/11x3qhc) 
 
 # Planimetrie
 [Seminterrato](https://prnt.sc/11wxgvx) 
@@ -58,7 +58,7 @@ FD = è il floor distributor, cioè il distributore di piano
 
 # Schema degli armadi
 
-[Schema degli armadi](https://prnt.sc/11wz9jb)
+[Schema degli armadi](https://prnt.sc/11x3pij)
 
 # Dispositivi
 

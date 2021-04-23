@@ -58,7 +58,7 @@ FD = è il floor distributor, cioè il distributore di piano
 
 # Schema degli armadi
 
-[Schema degli armadi](https://prnt.sc/11wz4ds)
+[Schema degli armadi](https://prnt.sc/11wz9jb)
 
 # Dispositivi
 

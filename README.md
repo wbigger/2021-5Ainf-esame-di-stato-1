@@ -13,10 +13,14 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 2) Non ci è stata richiesta della separazione della rete,quindi si preferisce utilizzare degli access point con la stessa sottorete.
 3) L'edificio è stato appena costruito ed è di medie dimensioni.
 4) Si tratta di una sola costruzione quindi si usera un solo CD/BD con un FD per piano
-5) Come inidizzo di rete si utilizzera l' indirizzo in classe A (10.0.0.0 con subnet 255.0.0.0) per garantire un aumento di dispositivi per utilizzi futuri. Per ogni piano si utilizzera una subnet diversa.
-6) Non ci e stato richiesto alcun tipo di dispositivo wireless per la farmacia, quindi si usera uno switch, collegato poi ad esso un pc.
+5) si iposizza che ogni reparto abbia un macchinario da connettere ad internet, quindi per ogni reparto ci sara una presa T/O
+6) Come inidizzo di rete si utilizzera l' indirizzo in classe A (10.0.0.0 con subnet 255.0.0.0) per garantire un aumento di dispositivi per utilizzi futuri. Per ogni piano si utilizzera una subnet diversa.
+7) Non ci e stato richiesto alcun tipo di dispositivo wireless per la farmacia, quindi si usera uno switch, collegato poi ad esso un pc.
 8) Il protocollo web sara l' https con un web firewall (cloudfire)
 
+# Presa T/O
+
+Presa utente
 
 # CD
 

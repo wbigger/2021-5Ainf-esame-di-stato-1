@@ -18,19 +18,20 @@ Realizzare una rete per un ospedale che ha 6 reparti su 3 piani, (ogni reparto s
 7) Non ci e stato richiesto alcun tipo di dispositivo wireless per la farmacia, quindi si usera uno switch, collegato poi ad esso un pc.
 8) Il protocollo web sara l' https con un web firewall (cloudfire)
 
-# Presa T/O
+# Abbreviazioni
+## Presa T/O
 
 Presa utente
 
-# CD
+## CD
 
 CD = campus distributor, cioè distributore di insedimento , dove si concentrano le apparecchiature di distrubuzione di tutto l'impianto 
 
-# BD
+## BD
 
 BD = Building distributor , cioè distributore di edificio , dove si concentrano le apparecchiature di distribuzione del singolo edificio.
 
-# FD
+## FD
 
 FD = è il floor distributor, cioè il distributore di piano
 
